@@ -1,1 +1,1 @@
-Команда  `git restore --staged`
+Команда  `git restore --staged`  позволяет убрать файл из отслеживания.
